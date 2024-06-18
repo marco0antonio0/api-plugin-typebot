@@ -1,0 +1,5 @@
+dados/
+services/__pycache__/
+__pycache__
+.env
+teste.py
